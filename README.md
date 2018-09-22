@@ -1,7 +1,7 @@
 # Symfony3-installation-problem
-===============================
 
 If you get some installation problems like this:
+
     [GuzzleHttp\Exception\RequestException]
     cURL error 60: SSL certificate problem: unable to get local issuer certificate
     [GuzzleHttp\Ring\Exception\RingException]
