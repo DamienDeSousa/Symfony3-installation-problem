@@ -7,8 +7,7 @@ If you get some installation problems like this:
     [GuzzleHttp\Ring\Exception\RingException]
     cURL error 60: SSL certificate problem: unable to get local issuer certificate
 
-Do the following things:
-=======================
+### Do the following things:
 
 1. Download the certificate here: [https://curl.haxx.se/ca/cacert.pem]
 2. Copy it in your wamp folder. For instance on my own machine it's C:/wamp/bin.
